@@ -1,4 +1,4 @@
-# Tweaked Mines
+# Custom Scoring
 
 Custom scoring system for **Super Battle Golf**.
 
