@@ -1,0 +1,9 @@
+{
+    "name": "Custom_Scoring",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/Ragnohr10/Custom_Scoring_Super_Battle_Golf/",
+    "description": "Fully customizable scoring system for Super Battle Golf. Set your own placement and stroke points directly from the in-game menu.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2304"
+    ]
+}
